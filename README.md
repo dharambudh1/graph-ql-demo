@@ -1,16 +1,14 @@
-# graph_ql_demo
+# GraphQL Demo
 
-A new Flutter project.
+## Information
+GraphQL allows clients to request only the specific data they need in a single query, minimizing over-fetching, while REST relies on fixed endpoints, often leading to over-fetching or under-fetching of data through multiple requests. GraphQL offers more flexibility and efficient data retrieval.
 
-## Getting Started
+## Scenarios
+Choosing between GraphQL and REST depends on the specific requirements of your project. GraphQL is often favored when flexibility in data fetching, reduced over-fetching, and a single endpoint are critical, while REST might be simpler for smaller, less complex projects.
 
-This project is a starting point for a Flutter application.
+## Used GraphQL API
+The Rick and Morty API: The Rick and Morty API is a REST and GraphQL API based on the television show Rick and Morty.\
+Documentation Link: https://rickandmortyapi.com/documentation
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/660XfFZJ/imgonline-com-ua-twotoone-wr-ABti5cdh-Nt-QM8.png "img")
